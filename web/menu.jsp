@@ -1,6 +1,6 @@
 <%-- 
-    Document   : probando
-    Created on : 12-dic-2012, 16:34:34
+    Document   : menu
+    Created on : 12-dic-2012, 17:01:02
     Author     : al036309
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hello World Menu!</h1>
     </body>
 </html>
