@@ -11,12 +11,14 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Bienvenido</title>
     </head>
+    
     <body>
+                <h1>Bienvenido</h1>
     <form method="post" action="/EjercicioServletsUsuario/Servlet">
             Intriduce tu nombre <input name="user" type="text"  /> <br />
             <input type="submit" value="Enviar" />
         </form> 
       
-        <h1>Bienvenido</h1>
+
     </body>
 </html>

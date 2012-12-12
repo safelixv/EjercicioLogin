@@ -12,11 +12,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World Menu!</h1>
+        <h1>Hello World Menu probando!</h1>
         
-          <form>
-            Introduce aqui tu nombre <input type="text">
-            
-        </form>
+        
     </body>
 </html>
