@@ -15,7 +15,7 @@
     <body>
                 <h1>Bienvenido</h1>
     <form method="post" action="/EjercicioServletsUsuario/Servlet">
-            Intriduce tu nombre <input name="user" type="text"  /> <br />
+            Introduce tu nombre <input name="user" type="text"  /> <br />
             <input type="submit" value="Enviar" />
         </form> 
       
