@@ -12,8 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World Menu probando!</h1>
-        
-        
+        <a href="/numero.jsp">Numeros</a>
+        <a href="/name.jsp">Nombre</a>
     </body>
 </html>
