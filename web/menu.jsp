@@ -12,7 +12,7 @@
         <title>Menu</title>
     </head>
     <body>
-        <a href="/numero.jsp">Numeros</a>
-        <a href="/name.jsp">Nombre</a>
+        <a href="./numero.jsp">Numeros</a>
+        <a href="./Name.jsp">Nombre</a>
     </body>
 </html>

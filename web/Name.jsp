@@ -5,20 +5,31 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+
+<%String Nombre = "";%>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Bienvenido</title>
-    </head>
+        <script> 
+            function saludo(){
+                var nombre = texto.nombre.value;
+                alert("Bienvenido " + nombre);
+     
+            }    
     
+        </script>
+
+    </head>
+
     <body>
-                <h1>Bienvenido</h1>
-    <form method="post" action="/EjercicioServletsUsuario/Servlet">
-            Introduce tu nombre <input name="user" type="text"  /> <br />
-            <input type="submit" value="Enviar" />
+        <h1>Bienvenido</h1>
+        <form name="texto">
+            Introduce tu nombre <input name="nombre" type="text"  /> <br />
+            <input type="submit" value="Enviar" onclick="saludo()" />
         </form> 
-      
+
 
     </body>
 </html>
