@@ -9,11 +9,12 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Menu</title>
     </head>
     <body>
-        <h1>Hello World Menu probando!</h1>
-        
-        
+        <a href="./numero.jsp">Numeros</a>
+        <a href="./Name.jsp">Nombre</a>
+        <p><a href="./reloj.jsp">Pincha para saber la hora</a></p>
     </body>
 </html>
+

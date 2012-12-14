@@ -13,7 +13,7 @@
     </head>
     <body align="center">
         <h1>Iniciar Sesión</h1>
-       <form method="post" action="/EjercicioServletsUsuario/Servlet">
+       <form method="post" action="Servlet">
             Usuario <input name="user" type="text"  /> <br />
             Contraseña <input name="password" type="password"  /> <br /> <br />
             <input type="submit" value="Enviar" />
