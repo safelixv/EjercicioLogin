@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Menu</title>
     </head>
     <body>
         <a href="/numero.jsp">Numeros</a>
