@@ -14,5 +14,7 @@
     <body>
         <a href="./numero.jsp">Numeros</a>
         <a href="./Name.jsp">Nombre</a>
+        <p><a href="./reloj.jsp">Pincha para saber la hora</a></p>
     </body>
 </html>
+
