@@ -1,9 +1,9 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<% int numero= Integer.parseInt(request.getParameter("num"));
-String valores = "";
-for(int i=numero;i>=0;i--){
-            valores = valores + i; 
-        }
+<% int numero = Integer.parseInt(request.getParameter("num"));
+    String valores = "";
+    for (int i = numero; i >= 0; i--) {
+        valores = valores + i;
+    }
 %>
 <!DOCTYPE html>
 <html>
@@ -13,8 +13,10 @@ for(int i=numero;i>=0;i--){
     </head>
     <body align="center">
         <h1>Calculo Numerico</h1><br />
-       <form method="post">
-          Resultado <input name="resultado" value=<%=valores%> type="text" />
+        <form method="post">
+            Resultado <input name="resultado" value=<%=valores%> type="text" />
+
         </form> 
+        <a href="./menu.jsp"> Atras </a>
     </body>
 </html>

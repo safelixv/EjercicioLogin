@@ -29,7 +29,7 @@
             Introduce tu nombre <input name="nombre" type="text"  /> <br />
             <input type="submit" value="Enviar" onclick="saludo()" />
         </form> 
-
+        <a href="./menu.jsp"> Atras </a>
 
     </body>
 </html>

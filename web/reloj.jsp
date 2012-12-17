@@ -16,6 +16,8 @@
     <body>
         
         <input type="text" name="reloj" value="<%=fecha%>" />
+        <a href="./menu.jsp"> Atras </a>
+        
     </body>
 </html>
 

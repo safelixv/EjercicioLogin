@@ -7,9 +7,10 @@
     </head>
     <body align="center">
         <h1>Calculo Numerico</h1><br />
-       <form method="post" action="/EjercicioLoginGrupo/Resultado.jsp">
+        <form method="post" action="/EjercicioLoginGrupo/Resultado.jsp">
             Valor<input name="num" type="text"  />
             <input type="submit" value="Enviar" />
+
         </form> 
     </body>
 </html>
